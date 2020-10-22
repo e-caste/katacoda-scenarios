@@ -1,0 +1,26 @@
+{
+  "title": "P.E.R.A.C.O.T.T.A.",
+  "description": "In this scenario, you can test how the peracotta gets information about a computer",
+  "difficulty": "Beginner",
+  "time": "5 minutes",
+  "noindex": true,
+  "details": {
+    "steps": [
+      {
+        "text": "step1.md",
+		"code": "set-up-repo.sh"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+	  "credits": ""
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+	"hidefinish": true
+  },
+  "backend": {
+    "imageid": "ubuntu:2004"
+  }
+}
