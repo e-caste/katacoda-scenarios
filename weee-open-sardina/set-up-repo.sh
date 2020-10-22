@@ -3,9 +3,9 @@ cd sardina
 pip install -r requirements.txt
 
 apt update
-apt install -y cloc nginx
+apt install -y cloc nginx < /dev/null
 
-#chmod -R 755 /root
+chmod -R 755 /root
 echo "server {
   listen 80 default_server;
   listen [::]:80 default_server;
