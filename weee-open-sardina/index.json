@@ -12,10 +12,15 @@
 	  }
 	]
   },
+  "files": [
+    "/root/sardina/main.py", "/root/sardina/config.py"
+  ],
   "environment": {
     "hideintro": true,
 	"hidefinish": true,
-    "uilayout": "editor-terminal"
+    "uilayout": "editor-terminal",
+	"uieditorpath": "/root",
+	"hideHiddenFiles": true
   },
   "backend": {
     "imageid": "ubuntu:2004"
