@@ -3,6 +3,7 @@
   "description": "In this scenario, you can test the sardina to get statistics about a user or an organisation",
   "difficulty": "Beginner",
   "time": "5 minutes",
+  "noindex": true,
   "details": {
     "steps": [
       {
@@ -12,9 +13,6 @@
 	  }
 	]
   },
-  "files": [
-    "/root/sardina/main.py", "/root/sardina/config.py"
-  ],
   "environment": {
     "hideintro": true,
 	"hidefinish": true,
