@@ -18,5 +18,4 @@ echo "server {
 }" > /etc/nginx/sites-available/default
 systemctl restart nginx
 
-echo "
-You can now run python3 main.py or click in the left panel!"
+clear && echo "You can now run python3 main.py or click in the left panel!"
