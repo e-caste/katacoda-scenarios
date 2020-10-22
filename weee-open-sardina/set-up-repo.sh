@@ -5,7 +5,7 @@ pip install -r requirements.txt
 apt update
 apt install -y cloc nginx
 
-chmod -R 755 /root
+#chmod -R 755 /root
 echo "server {
   listen 80 default_server;
   listen [::]:80 default_server;
@@ -13,7 +13,7 @@ echo "server {
   server_name _;
   location / {
 	autoindex on;
-	try_files $uri $uri/ =404;
+	try_files \$uri \$uri/ =404;
   }
 }" > /etc/nginx/sites-available/default
 systemctl restart nginx
