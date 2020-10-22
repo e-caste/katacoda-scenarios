@@ -1,0 +1,25 @@
+{
+  "title": "S.A.R.D.I.N.A.",
+  "description": "In this scenario, you can test the sardina to get statistics about a user or an organisation",
+  "difficulty": "Beginner",
+  "time": "5 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Testing S.A.R.D.I.N.A.",
+		"text": "intro.md",
+		"code": "set-up-venv.sh"
+	  }
+	],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "hideintro": true,
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu:2004"
+  }
+}
