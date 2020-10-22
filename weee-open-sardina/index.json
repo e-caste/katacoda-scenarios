@@ -16,6 +16,9 @@
 	  "credits": ""
 	}
   },
+  "files": [
+    "main.py", "config.py"
+  ],
   "environment": {
     "hideintro": false,
 	"hidefinish": true,
