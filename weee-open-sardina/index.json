@@ -8,7 +8,7 @@
       {
         "title": "Testing S.A.R.D.I.N.A.",
 		"text": "intro.md",
-		"code": "set-up-venv.sh"
+		"code": "set-up-repo.sh"
 	  }
 	],
     "finish": {
