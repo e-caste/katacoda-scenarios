@@ -10,13 +10,11 @@
 		"text": "intro.md",
 		"code": "set-up-repo.sh"
 	  }
-	],
-    "finish": {
-      "text": "finish.md"
-    }
+	]
   },
   "environment": {
     "hideintro": true,
+	"hidefinish": true,
     "uilayout": "editor-terminal"
   },
   "backend": {
