@@ -7,14 +7,17 @@
   "details": {
     "steps": [
       {
-        "title": "Testing S.A.R.D.I.N.A.",
-		"text": "intro.md",
+		"text": "step1.md",
 		"code": "set-up-repo.sh"
+	  },
+	  "intro": {
+	    "text": "intro.md",
+		"credits": ""
 	  }
 	]
   },
   "environment": {
-    "hideintro": true,
+    "hideintro": false,
 	"hidefinish": true,
     "uilayout": "editor-terminal",
 	"uieditorpath": "/root",
