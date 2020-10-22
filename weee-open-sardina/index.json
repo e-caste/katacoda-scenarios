@@ -9,12 +9,12 @@
       {
 		"text": "step1.md",
 		"code": "set-up-repo.sh"
-	  },
-	  "intro": {
-	    "text": "intro.md",
-		"credits": ""
 	  }
-	]
+	],
+	"intro": {
+	  "text": "intro.md",
+	  "credits": ""
+	}
   },
   "environment": {
     "hideintro": false,
