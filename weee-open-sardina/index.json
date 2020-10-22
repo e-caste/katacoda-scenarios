@@ -22,7 +22,7 @@
   "environment": {
     "hideintro": false,
 	"hidefinish": true,
-    "uilayout": "editor-terminal",
+    "uilayout": "vscode-terminal-split",
 	"uieditorpath": "/root/sardina",
 	"hideHiddenFiles": true
   },
