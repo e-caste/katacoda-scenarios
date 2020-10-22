@@ -20,7 +20,7 @@
     "hideintro": false,
 	"hidefinish": true,
     "uilayout": "editor-terminal",
-	"uieditorpath": "/root",
+	"uieditorpath": "/root/sardina",
 	"hideHiddenFiles": true
   },
   "backend": {
