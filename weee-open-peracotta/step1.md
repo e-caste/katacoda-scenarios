@@ -4,7 +4,10 @@
 
 ### Trying the script
 
-Simply run `./main.sh`{{execute}} to run the script. There is no support for the GUI version at the moment.
+Simply run `./main.sh`{{execute}} to run the script to detect the current machine's hardware.  
+Run `./main.sh -f <tests/adirectory>` to run the script with files previously generated on other machines.
+
+**Note**: there is no support for the GUI version at the moment.
 
 ### Viewing the results
 
