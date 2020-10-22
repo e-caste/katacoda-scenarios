@@ -9,3 +9,7 @@ Simply run `./main.sh`{{execute}} to run the script. There is no support for the
 ### Viewing the results
 
 After the script has run successfully, you can check out the output by running `less copy_this_to_tarallo.json`{{execute}} 
+
+### Running tests
+
+To run the available tests, use the command `pytest -vv tests`{{execute}}
