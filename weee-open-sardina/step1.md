@@ -4,7 +4,7 @@
 
 ### Trying the script
 
-After the commands have run, you can click on the following command to edit your configuration `nano config.py`{{execute}}.  
+After the commands have run, you can click on the following command to edit your configuration `vim config.py`{{execute}}. Use h,j,k,l to move around and save the file writing :wq and Enter.
 
 After having configured config.py, you can now click here to start the sardina: `python3 main.py`{{execute}}
 
