@@ -1,5 +1,6 @@
 git clone https://github.com/weee-open/weeehire-ng
 cd weeehire-ng
+cp config/config-example.php config/config.php
 apt update
 apt install -y sqlite3 < /dev/null
 ./launch.sh
