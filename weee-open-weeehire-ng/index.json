@@ -1,0 +1,26 @@
+{
+  "title": "WEEEhire-ng",
+  "description": "In this scenario, you can host a development instance of the WEEEhire new generation",
+  "difficulty": "Beginner",
+  "time": "5 minutes",
+  "noindex": true,
+  "details": {
+    "steps": [
+      {
+		"text": "step1.md",
+		"code": "set-up-repo.sh"
+	  }
+	],
+	"intro": {
+	  "text": "intro.md",
+	  "credits": ""
+	}
+  },
+  "environment": {
+  "hidefinish": true,
+  "uilayout": "terminal-iframe-split"
+  },
+  "backend": {
+    "imageid": "ubuntu:2004"
+  }
+}
