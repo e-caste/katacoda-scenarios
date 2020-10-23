@@ -1,6 +1,7 @@
 git clone https://github.com/weee-open/sardina
 cd sardina
 pip install -r requirements.txt
+sed -i 's/YOUR TOKEN HERE/678295b244450815fb0491faab71f7f073db5dc1/g' config.py
 
 apt update
 apt install -y cloc nginx < /dev/null
