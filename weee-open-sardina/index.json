@@ -9,6 +9,12 @@
       {
 		"text": "step1.md",
 		"code": "set-up-repo.sh"
+	  },
+	  {
+        "text": "step2.md"
+	  },
+	  {
+        "text": "step3.md"
 	  }
 	],
 	"intro": {
